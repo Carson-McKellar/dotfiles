@@ -175,27 +175,27 @@
       "type": "de",
       "keyIcon": ""
     },
-    {
-      "type": "wm",
-      "keyIcon": "",
-      "detectPlugin": true
-    },
-    {
-      "type": "wmtheme",
-      "keyIcon": "󰓸"
-    },
-    {
-      "type": "theme",
-      "keyIcon": "󰉼"
-    },
-    {
-      "type": "icons",
-      "keyIcon": ""
-    },
-    {
-      "type": "font",
-      "keyIcon": ""
-    },
+    //{
+      //"type": "wm",
+      //"keyIcon": "",
+      //"detectPlugin": true
+    //},
+    //{
+      //"type": "wmtheme",
+      //"keyIcon": "󰓸"
+    //},
+    //{
+      //"type": "theme",
+      //"keyIcon": "󰉼"
+    //},
+    //{
+      //"type": "icons",
+      //"keyIcon": ""
+    //},
+    //{
+      //"type": "font",
+      //"keyIcon": ""
+    //},
     //{
       //"type": "cursor",
       //"keyIcon": "󰆿"
